@@ -23,9 +23,9 @@ A detailed blog post with the logic can be found [here](https://meriedith.com/po
 to find background footage that is non-copyright, you can find it [here](https://www.youtube.com/results?search_query=minecraft+parkour+footage+no+copyright), download it [here](https://downloaderto.com/engf/), and edit the dimensions [here](https://canva.com). <br>
 --
 
-6. `pip install requirements.txt`
-7. `python main.py`
-8. `for automatic youtube uploading, you must sign up for the google cloud api. do that.`
-9. `ready to upload videos will be located in the youtube folder.`
+6. pip install requirements.txt
+7. python main.py
+8. for automatic youtube uploading, you must sign up for the google cloud api. do that.
+9. ready to upload videos will be located in the `youtube` directory.
 
-# Tutorial in the Making!
+# Tutorial coming soon!
