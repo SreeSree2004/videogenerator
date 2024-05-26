@@ -1,0 +1,15 @@
+whisper
+shutil
+cv2
+moviepy
+tqdm
+PIL
+numpy
+asyncio
+requests
+praw
+time
+gtts
+openai
+python-dotenv
+httplib2
